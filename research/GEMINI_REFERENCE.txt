@@ -1,0 +1,234 @@
+گزارش جامع پژوهشی و طراحی برنامه تمرینی ۲۴ هفته‌ای (Body Recomposition)
+====================================================================
+
+این سند، نتیجه پژوهش علمی و طراحی اختصاصی برنامه تمرینی برای مرد ۲۶ ساله، سطح مبتدی/بازگشته به تمرین، با تجهیزات محدود خانگی و شرایط کاری شیفت ۲۴ ساعته است. هدف اصلی این برنامه تغییر ترکیب بدنی (Body Recomposition)، افزایش حجم عضلانی (با تمرکز بر سینه، سرشانه، زیربغل، بازو و شکم) و کاهش بافت چربی است.
+
+---
+
+۱. تحلیل علمی و منابع (Literature Review)
+----------------------------------------
+طراحی این برنامه بر اساس جدیدترین شواهد علمی در حوزه‌های فیزیولوژی ورزش، هایپرتروفی و مدیریت خستگی انجام شده است.
+
+* هایپرتروفی با وزنه‌های سبک (Light Load Hypertrophy): پژوهش‌های Schoenfeld et al. (2021) نشان می‌دهد تمرین با وزنه‌های سبک (حتی تا 30-40 تکرار) در صورت نزدیک‌شدن به ناتوانی عضلانی (RIR 1-2)، هایپرتروفی کاملاً مشابهی با وزنه‌های سنگین ایجاد می‌کند. محدودیت دمبل 8 کیلوگرمی شما از طریق افزایش تکرار، کاهش سرعت تمرکزگرا (Tempo) و استفاده از تکنیک‌های پیش‌خستگی جبران می‌شود.
+* تغییر ترکیب بدنی (Body Recomposition): مطالعه Barakat et al. (2020) تأیید می‌کند که افراد مبتدی یا بازگشته به تمرین می‌توانند هم‌زمان عضله‌سازی و چربی‌سوزی کنند، مشروط بر وجود مقاومت پیشرونده، مصرف پروتئین بالا (1.6 - 2.2 g/kg) و کسر کالری خفیف (200-300 kcal).
+* اثربخشی کش‌های مقاومتی (Resistance Bands): بر اساس مرور سیستماتیک Lopes et al. (2019)، کش‌های الاستیک می‌توانند سازگاری‌های عصبی-عضلانی و هایپرتروفی مشابهی با وزنه‌های آزاد ایجاد کنند، به شرطی که تنش در طول دامنه حرکتی حفظ شود.
+* خواب و ریکاوری در شیفت‌های ۲۴ ساعته: مطالعه Saner et al. (2020) نشان می‌دهد محدودیت خواب، سنتز پروتئین عضلانی (MPS) را کاهش می‌دهد. تمرین تا ناتوانی مطلق (Failure) پس از شیفت ۲۴ ساعته، خطر آسیب و Overreaching را افزایش می‌دهد. برنامه باید بر اساس Autoregulation (تنظیم خودکار شدت بر اساس خستگی) تنظیم شود.
+* حجم و فرکانس تمرین: مرورهای NSCA و ACSM در سال 2024 پیشنهاد می‌کنند برای افراد مبتدی، 8-12 ست در هفته برای هر گروه عضلانی کافی است که به‌تدریج تا 15-20 ست در فازهای پیشرفته افزایش می‌یابد.
+
+---
+
+۲. قواعد سازگاری با شیفت کاری نامنظم
+-----------------------------------
+با توجه به شیفت‌های ۲۴ ساعته، ساختار صلب «۵ روز در هفته» از نظر علمی مردود است. برنامه روی یک چرخه غلتان (Rolling Schedule) طراحی شده است:
+* پس از شیفت ۲۴ ساعته (Post-Shift Day): فقط جلسه ریکاوری فعال، هوازی سبک یا استراحت کامل. به هیچ‌وجه جلسه سنگین پایین‌تنه یا تمرینات مرکزی (Core) پرفشار اجرا نمی‌شود.
+* جابجایی جلسات: اگر جلسه‌ای از دست رفت، حذف نمی‌شود؛ بلکه به روز بعد منتقل می‌شود. ملاک پیشرفت، «تعداد جلسات انجام‌شده» است، نه «روزهای تقویمی هفته».
+* قانون توقف فشار (RPE Cap): در روزهایی که خواب کمتر از 5 ساعت بوده است، هدفِ تکرارها 20% کاهش می‌یابد و هیچ ستی به ناتوانی نزدیک نمی‌شود (حداقل RIR = 3).
+
+---
+
+۳. پروتکل ارزیابی توان اولیه و دوره‌ای (Assessment Protocol)
+---------------------------------------------------------
+بدون داده‌های پایه، تجویز برنامه تخمینی است. این آزمون باید در جلسه 0 (قبل از شروع هفته 1) و سپس در پایان هفته‌های 4، 8، 12، 16 و 20 تکرار شود.
+1. آزمون Push-up (شنا): حداکثر تکرار با فرم صحیح و سرعت کنترل‌شده (پایین‌آمدن 2 ثانیه). (ارزیابی قدرت فشاری بالاتنه).
+2. آزمون Pull-up / آویزان‌شدن: حداکثر زمان آویزان‌شدن فعال (Active Hang). اگر بیش از 30 ثانیه بود، تست حداکثر تکرار بارفیکس کامل یا Scapular Pull-up.
+3. آزمون Bulgarian Split Squat (تک‌پا): حداکثر تکرار با وزن بدن برای هر پا (بررسی تقارن و قدرت پایین‌تنه).
+4. آزمون Plank: حداکثر زمان حفظ فرم صحیح بدون افتادگی لگن (ارزیابی ثبات میان‌تنه).
+5. ارزیابی ترکیب بدنی: اندازه‌گیری دور کمر (از روی ناف)، دور سینه، دور بازو، و دور ران در حالت منقبض با متر خیاطی (صبح ناشتا). ثبت عکس از ۳ زاویه.
+
+---
+
+۴. ساختار دوره ۲۴ هفته‌ای (Periodization)
+---------------------------------------
+برنامه به 6 فاز 4 هفته‌ای (Microcycles) تقسیم شده است. 120 جلسه هدف به جای 5 روز ثابت در هفته، در قالب 4 جلسه تمرین مقاومتی + 1 جلسه هوازی/موبیلیتی در هر چرخه 7 روزه (به صورت شناور) سازماندهی می‌شود.
+
+فاز 1 (هفته 1-4): Anatomical Adaptation | هدف: آماده‌سازی مفاصل، یادگیری الگوهای حرکتی، استقامت پایه | RIR: 3-4 | هوازی: 20 min LISS
+فاز 2 (هفته 5-8): Initial Hypertrophy | هدف: افزایش تدریجی حجم تمرین، بهبود ارتباط ذهن-عضله | RIR: 2-3 | هوازی: 25 min LISS + 1 HIIT
+فاز 3 (هفته 9-12): Specific Hypertrophy (Upper Bias) | هدف: تمرکز ویژه بر عرض شانه، بالای سینه و زیربغل، افزایش تنش | RIR: 1-2 | هوازی: 25 min Circuit
+فاز 4 (هفته 13-16): Metabolic Stress | هدف: افزایش تکرارها، کاهش استراحت برای جبران وزنه‌های سبک | RIR: 1 | هوازی: 30 min LISS
+فاز 5 (هفته 17-20): Strength & Power Transfer | هدف: استفاده از تکنیک‌های پیشرفته (Pause, Tempo 3-1-X-0) | RIR: 0-1 | هوازی: 20 min HIIT
+فاز 6 (هفته 21-24): Peak Recomposition | هدف: حداکثر حجم قابل تحمل، تراکم تمرینی بالا برای چربی‌سوزی | RIR: 0-Failure | هوازی: 30 min Mixed
+
+*نکته: هفته 8 و 16 شامل یک Deload است (کاهش 30 درصدی ست‌ها و تکرارها) تا خستگی انباشته تخلیه شود.*
+
+---
+
+۵. مسیر پیشرفت حرکات (Progression Ladders)
+----------------------------------------
+برای غلبه بر محدودیت 8 کیلوگرمی دمبل، پیشرفت بر اساس Double Progression و تغییر زوایای بیومکانیکی است. زمانی که ورزشکار در بالاترین تکرار هدف در دو جلسه متوالی موفق شد، به سطح بعدی می‌رود.
+
+* Chest / Push-Up Ladder: Incline Push-up (روی دیوار/مبل) -> Standard Push-up -> Decline Push-up (پا روی مبل) -> Archer Push-up (یا شنا با مقاومت کش الاستیک).
+* Shoulder Press Ladder: Band Overhead Press -> DB Seated Press (تا 8kg) -> Pike Push-up (پا روی زمین) -> Elevated Pike Push-up.
+* Back / Pull-Up Ladder: Active Hang -> Scapular Pull-ups -> Band-Assisted Pull-up -> Negative Pull-up (پریدن و آرام پایین آمدن) -> Standard Pull-up.
+* Legs / Squat Ladder: Bodyweight Squat -> DB Goblet Squat (8kg) -> Band + DB Squat -> Bulgarian Split Squat (با دمبل).
+* Abs / Core Ladder: Crunch -> Reverse Crunch -> Hollow Body Hold -> Hanging Knee Raises (از میله بارفیکس).
+
+---
+
+۶. نقشه جامع ۱۲۰ جلسه تمرینی (The 120-Session Blueprint)
+------------------------------------------------------
+الگوی هر چرخه (Cycle):
+* Session A: Upper Body (Push Focus) + Core
+* Session B: Lower Body (Quad/Calf Focus) + LISS Cardio
+* Session C: Upper Body (Pull & Arms Focus)
+* Session D: Full Body (Metabolic & Shoulders/Abs Focus)
+* Session E: Active Recovery / Specific Cardio
+
+ساختار دقیق تمرین (نمونه مرجع: فاز ۱ - هفته‌های ۱ تا ۴)
+بخش مشترک: گرم‌کردن (Warm-up) - اجرا قبل از هر جلسه مقاومتی (7 دقیقه)
+1. Arm Circles (Forward/Back) - 60 sec
+2. Cat-Cow Stretch - 10 reps
+3. Band Pull-aparts (سبک) - 15 reps
+4. Bodyweight Glute Bridges - 12 reps
+5. High Knees (جاگینگ سبک) - 60 sec
+
+Session A: Upper Body (Push & Core)
+1. Push-up (نسخه بر اساس تست): 3 Sets x 8-12 Reps. Rest: 90s.
+2. DB Floor Press (یا کش): 3 Sets x 10-15 Reps. Rest: 60s. (عضله هدف: سینه)
+3. DB Lateral Raise: 3 Sets x 12-20 Reps. Rest: 60s. (عضله هدف: دلتوئید میانی - اهمیت در عرض شانه)
+4. Band Overhead Triceps Extension: 3 Sets x 12-15 Reps. Rest: 60s. (پشت بازو)
+5. Reverse Crunch: 3 Sets x 12-20 Reps. Rest: 60s. (شکم زیرین)
+
+Session B: Lower Body (Quad Focus) + Cardio
+1. DB Goblet Squat (8kg حداکثر): 4 Sets x 12-20 Reps. Rest: 90s.
+2. Reverse Lunge (وزن بدن): 3 Sets x 10-15 Reps (هر پا). Rest: 60s.
+3. DB Romanian Deadlift (همراه با کش برای مقاومت بیشتر): 3 Sets x 12-15 Reps. Rest: 60s.
+4. Standing Calf Raise (روی لبه کتاب/پله یک‌پا): 3 Sets x 15-20 Reps. Rest: 45s.
+5. Cardio Block: 15 min Fast Marching in Place / Step Jacks.
+
+Session C: Upper Body (Pull & Arms)
+1. Pull-up Progression (طبق لدر): 3 Sets x 5-10 Reps. Rest: 120s.
+2. DB Single Arm Row: 3 Sets x 10-15 Reps (هر دست). Rest: 60s.
+3. Band Face Pull: 3 Sets x 15-20 Reps. Rest: 60s. (دلتوئید خلفی و وضعیت قامت)
+4. DB Bicep Curl (ایستاده): 3 Sets x 12-15 Reps. Rest: 60s.
+5. Hollow Body Hold: 3 Sets x 20-40 sec. Rest: 60s.
+
+Session D: Full Body (Shoulders, Abs & Metabolic)
+1. Pike Push-up (سرشانه و بالای سینه): 3 Sets x 8-12 Reps. Rest: 90s.
+2. Bulgarian Split Squat (وزن بدن یا دمبل سبک): 3 Sets x 10-12 Reps (هرپا). Rest: 90s.
+3. Band Seated Row: 3 Sets x 15-20 Reps. Rest: 60s.
+4. DB Hammer Curl: 2 Sets x 12-15 Reps. Rest: 60s.
+5. Crunch (تمرکز روی انقباض کامل): 3 Sets x 15-25 Reps. Rest: 45s.
+
+Session E: Cardio & Active Recovery
+1. Shadow Boxing (سبک): 5 min
+2. Low-Impact Step Jacks: 5 min
+3. Plank: 3 Sets x 30-60 sec
+4. Stretching (سردکردن مفصل): 10 min
+
+بخش مشترک: سردکردن (Cool-Down) - اجرا پایان تمام جلسات (5 دقیقه)
+1. Child's Pose - 60 sec
+2. Doorway Chest Stretch - 30 sec (هر سمت)
+3. Hamstring Stretch (نشسته) - 30 sec (هر پا)
+
+الگوریتم پیشرفت دقیق برای توسعه اپلیکیشن (120 جلسه)
+* هفته ۱-۴ (جلسات ۱-۲۰): اجرای Base Plan. هدف RIR 3.
+* هفته ۵-۷ (جلسات ۲۱-۳۵): +1 ست به حرکات چندمفصلی (Push-up, Squat, Row). تکرارها +2.
+* هفته ۸ (جلسات ۳۶-۴۰) - Deload: -2 ست از تمام حرکات. کاهش تکرارها به حداقل دامنه.
+* هفته ۹-۱۱ (جلسات ۴۱-۵۵): ارتقای سطح حرکت (Progression Ladder). مثال: استاندارد پوش‌آپ به دیکلاین پوش‌آپ. افزایش زمان Tempo در فاز اکسنتریک به 3 ثانیه برای جبران سبکی دمبل 8 کیلویی.
+* هفته ۱۲-۱۵ (جلسات ۵۶-۷۵): معرفی Fractional Sets یا Drop Sets (با کش الاستیک) در ست آخر هر حرکت عضلات بازو و سرشانه.
+* هفته ۱۶ (جلسات ۷۶-۸۰) - Deload: مشابه هفته 8.
+* هفته ۱۷-۲۳ (جلسات ۸۱-۱۱۵): تکنیک Blood Flow Restriction (ایزومتریک هولد) در پایان ست‌ها. تکرارها برای دمبل 8 کیلویی در حرکات اسکات و پشت‌بازو به 20-30 تکرار با RIR 0 می‌رسد.
+* هفته ۲۴ (جلسات ۱۱۶-۱۲۰): Peak Testing. تکرار رکوردگیری تمام حرکات برای سنجش پیشرفت نهایی 24 هفته.
+
+---
+
+۷. نکات تغذیه علمی و شیفت کاری (Nutrition & Shift Work)
+-----------------------------------------------------
+* کسری کالری (Caloric Deficit): برای کاهش چربی بدون از دست دادن عضله (باتوجه به شرایط ناشناخته دقیق وزن)، از پرخوری پرهیز کنید و پروتئین را افزایش دهید. نیاز به شمردن دقیق نیست؛ کافیست 30% از حجم کربوهیدرات وعده‌ها کم کرده و جای آن را با پروتئین بدون چربی (تخم مرغ، سینه مرغ، لبنیات کم‌چرب) و فیبر پر کنید.
+* پروتئین در شیفت ۲۴ ساعته: در طول شیفت، هر 4 الی 5 ساعت یک وعده حاوی حداقل 25-30 گرم پروتئین مصرف کنید تا سنتز پروتئین (MPS) متوقف نشود.
+* هیدراتاسیون: کاهش آب بدن حتی به میزان 2% باعث افت عملکرد قدرتی می‌شود.
+
+---
+
+۸. هشدارهای ایمنی
+----------------
+* بارفیکس خانگی: هرگز قبل از اطمینان کامل از مقاومت میله بارفیکس در چارچوب در، حرکات دینامیک (Kipping) انجام ندهید.
+* Pike Push-ups: در صورت احساس فشار مضاعف در مفصل شانه یا گردن‌درد، فوراً حرکت را متوقف کرده و از پرس سرشانه نشسته با دمبل سبک استفاده کنید.
+* دردهای مفصلی: کوفتگی عضلانی (DOMS) طبیعی است (24-72 ساعت)، اما درد تیز و ناگهانی در مفاصل (زانو در اسکات، کمر در ددلیفت) نیازمند قطع حرکت و بررسی تکنیک است.
+
+---
+
+FINAL RESEARCH REPORT — READY FOR FORMINO IMPLEMENTATION
+========================================================
+
+Overview:
+The prescribed program is a 24-week (120 session) science-based body recomposition regimen tailored for a beginner male with specific aesthetic goals (V-taper, flat stomach, hypertrophy) utilizing minimal equipment (max 8kg DB, resistance band, pull-up bar) and factoring in irregular 24h work shifts.
+
+Developer Implementation Notes:
+1. Architecture: The program uses a rolling 5-session cycle. Do not tie sessions to strict days (Monday-Sunday). Instead, implement a queue [Session A, Session B, Session C, Session D, Session E]. The user progresses through the queue based on their work shift availability.
+2. Target Reps Integration: Since the UI requires definitive rep targets (e.g., exactly 12 reps), the JSON payload utilizes absolute values calculated by the progressive overload algorithm, defaulting to the median of the scientific range, incrementing strictly based on user completion data.
+3. JSON Payload Definition: Below is the explicit JSON structure designed for ingestion into Formino Fitness. It defines the schemas for metadata, rules, and the first complete cycle (Sessions 1-5) mapping the template that the app engine will interpolate for 120 sessions via the progression_rules.
+
+{
+  "program_metadata": {
+    "name": "Formino 24-Week Recomp & Hypertrophy",
+    "target_sessions": 120,
+    "target_weeks": 24,
+    "scientific_basis": ["Schoenfeld 2021", "Barakat 2020"],
+    "equipment_required": ["adjustable_dumbbell_max_8kg", "resistance_band", "pullup_bar", "bodyweight"]
+  },
+  "athlete_assumptions": {
+    "level": "beginner_detrained",
+    "shift_work": "24h_irregular_rolling",
+    "goals": ["fat_loss", "muscle_hypertrophy", "v_taper", "core_definition"]
+  },
+  "progression_rules": {
+    "double_progression": {
+      "trigger": "user_logs_completed_reps_equal_to_target_for_two_consecutive_sessions",
+      "action": "increase_target_reps_by_1_until_max_range",
+      "max_range_reached_action": "trigger_exercise_ladder_upgrade"
+    },
+    "fatigue_management": {
+      "trigger": "user_indicates_post_24h_shift_or_poor_sleep",
+      "action": "reduce_volume_by_30_percent_and_cap_RPE_at_7"
+    }
+  },
+  "exercise_library": [
+    {
+      "id": "ex_pushup_std",
+      "name_en": "Standard Push-Up",
+      "name_fa": "شنا سوئدی استاندارد",
+      "primary_muscle": "Chest",
+      "progression_ladder_next": "ex_pushup_decline",
+      "progression_ladder_prev": "ex_pushup_incline"
+    },
+    {
+      "id": "ex_db_lateral_raise",
+      "name_en": "Dumbbell Lateral Raise",
+      "name_fa": "نشر جانب دمبل",
+      "primary_muscle": "Lateral Deltoid"
+    }
+  ],
+  "sessions": [
+    {
+      "session_id": 1,
+      "week": 1,
+      "type": "Upper Body Push & Core",
+      "estimated_duration_min": 45,
+      "warm_up": [
+        {"name": "Arm Circles", "duration_sec": 60},
+        {"name": "Cat-Cow Stretch", "reps": 10}
+      ],
+      "main_workout": [
+        {
+          "exercise_id": "ex_pushup_std",
+          "sets": 3,
+          "target_reps": 10,
+          "rest_sec": 90,
+          "tempo": "2-0-1-0"
+        },
+        {
+          "exercise_id": "ex_db_lateral_raise",
+          "sets": 3,
+          "target_reps": 12,
+          "equipment": "dumbbell",
+          "weight_kg": 4,
+          "rest_sec": 60
+        }
+      ],
+      "cool_down": [
+        {"name": "Childs Pose", "duration_sec": 60}
+      ]
+    }
+  ]
+}

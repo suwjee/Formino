@@ -1,0 +1,22 @@
+const assert=require('node:assert/strict');
+const C=require('./session-clock.js');
+assert.equal(C.formatElapsed(0),'00:00:00');
+assert.equal(C.formatElapsed(1),'00:00:01');
+assert.equal(C.formatElapsed(3599),'00:59:59');
+assert.equal(C.formatElapsed(3600),'01:00:00');
+assert.equal(C.formatElapsed(86405),'24:00:05');
+const time='2026-11-13T07:00:00.000Z';
+assert.equal(C.elapsedSeconds(time,Date.parse(time)+3605000),3605);
+assert.equal(C.elapsedSeconds(time,Date.parse(time)-50000),0);
+assert.equal(C.elapsedSeconds(null),0);
+const state={startDate:'2026-10-01',settings:{restSound:true},measurements:[{week:1,waist:80}],sessions:[{id:'a',date:'2026-11-13'},{id:'b',date:'2026-11-12'},{id:'c',date:'2026-11-13'}],activeSession:{id:'draft',date:'2026-11-13'},shifts:['2026-11-13']};
+assert.deepEqual(C.trainingCountForDate(state,'2026-11-13'),{saved:2,draft:1,total:3});
+const reset=C.clearTrainingDate(state,'2026-11-13');
+assert.deepEqual(reset.sessions,[{id:'b',date:'2026-11-12'}]);
+assert.equal(reset.activeSession,null);
+assert.deepEqual(reset.measurements,state.measurements);
+assert.deepEqual(reset.settings,state.settings);
+assert.deepEqual(reset.shifts,state.shifts);
+assert.equal(state.sessions.length,3); // pure: source preserved
+assert.deepEqual(C.trainingCountForDate(reset,'2026-11-13'),{saved:0,draft:0,total:0});
+console.log('PASS: countdown formatting, elapsed time, and date-scoped safe reset');

@@ -1,0 +1,4 @@
+const CACHE='formino-exercise-library-v4';const ASSETS=['/','/index.html','/style.css','/fonts/Vazirmatn.woff2','/workouts-v2.js','/workouts-v3.js','/workouts-v4.js','/workouts-v43.js','/workouts-v411.js','/research-data.js','/workouts.js','/coach.js','/adaptive-final.js','/analytics45.js','/session-clock.js','/app.js','/favicon.svg','/manifest.webmanifest'];
+self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(ASSETS)).then(()=>self.skipWaiting())));
+self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(x=>x!==CACHE).map(x=>caches.delete(x)))).then(()=>self.clients.claim())));
+self.addEventListener('fetch',e=>{const u=new URL(e.request.url);if(u.pathname.startsWith('/api/'))return;e.respondWith(fetch(e.request).catch(()=>caches.match(e.request)));});

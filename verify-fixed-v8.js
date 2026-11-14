@@ -1,0 +1,32 @@
+'use strict';
+const assert=require('node:assert/strict');
+const F=require('./fixed-workout-v8.js');
+const historical={id:'historical',planVersion:7,sessionNumber:1,status:'completed',date:'2025-02-01',exerciseLogs:[]};
+const old={version:7,programKey:'old',startDate:'2025-02-01',sessions:[historical],activeSession:{id:'draft'},measurements:[{week:1,date:'2025-02-01',waist:80}],shifts:['2026-11-14'],settings:{height:175,availableDumbbellWeights:[2,4,6,8]}};
+const snapshot=structuredClone(old);
+const next=F.migrate(old,'2026-11-13');
+assert.deepEqual(old,snapshot);
+assert.deepEqual(next.legacyArchive[0].sessions,old.sessions);
+assert.deepEqual(next.legacyArchive[0].activeSession,old.activeSession);
+assert.deepEqual(next.measurements,old.measurements);
+assert.deepEqual(next.shifts,old.shifts);
+assert.equal(F.migrate(next,'2030-01-01'),next);
+assert.equal(F.nextNumber(next.sessions),1);
+assert.equal(F.nextNumber([{sessionNumber:1,status:'partial'},{sessionNumber:2,status:'completed'}]),1);
+const step={id:'FP-V0',familyId:'FP',side:true,kind:'weight',unit:'reps',targets:[8,8],rest:120,restSides:20,loadCheckpoint:true};
+const session={sessionNumber:12,steps:[step]};
+function exposure(sessionNumber,load,done,failedAttempts=0){
+ return {planVersion:8,sessionNumber,status:done?'completed':'partial',exerciseLogs:[{id:step.id,sets:[{coachLoad:load,weight:load,done,failed:!done,failedAttempts}]}]};
+}
+assert.equal(F.resolveLoad(step,session,{},[]),4);
+assert.equal(F.resolveLoad(step,session,old.settings,[exposure(9,4,true),exposure(10,4,true)]),6);
+assert.equal(F.resolveLoad(step,session,old.settings,[exposure(9,4,true),exposure(10,4,true,1)]),4);
+assert.equal(F.resolveLoad(step,session,old.settings,[exposure(9,4,true),exposure(10,4,false)]),4);
+assert.equal(F.resolveLoad({...step,loadCheckpoint:false},session,old.settings,[exposure(9,4,true),exposure(10,4,true)]),4);
+assert.equal(F.resolveLoad(step,session,{availableDumbbellWeights:[2,3,9]},[exposure(9,4,true),exposure(10,4,true)]),4);
+assert.deepEqual(F.buildLogs(session,old.settings,[])[0].sets.map(set=>[set.coachTarget,set.coachLoad,set.done]),[[8,4,false],[8,4,false]]);
+const bar={optionalSkills:['PULL-V0','PULL-V1','PULL-V2','PULL-V3'].map(id=>({id}))};
+assert.deepEqual(F.optionalSkills(bar,{pullupBarVerified:true}).map(s=>s.id),['PULL-V0']);
+assert.deepEqual(F.optionalSkills(bar,{pullupBarVerified:true,supportedHangConfirmed:true,activeHangConfirmed:true}).map(s=>s.id),['PULL-V0','PULL-V1','PULL-V2']);
+assert.equal(F.resolveLoad(step,session,{availableDumbbellWeights:[4,8]},[exposure(10,6,true)]),6);
+console.log('PASS fixed targets, real 4–8 kg equipment, history-qualified progression, optional bar gates and idempotent historical archive.');
